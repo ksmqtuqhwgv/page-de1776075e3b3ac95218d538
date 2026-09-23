@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "dc5f0fc31f94b3b72bd9d217",
+  "owner": "ksmqtuqhwgv",
+  "repo": "page-de1776075e3b3ac95218d538",
+  "title": "小飞机(FlyShadow)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "de1776075e3b3ac95218d538",
+      "a": "小飞机(FlyShadow)",
+      "b": "2027最新官网",
+      "entity": "小飞机(FlyShadow)",
+      "brand": "小飞机(FlyShadow)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9066b864221bde692ecdfc72cc2cb5c05194d4a172434f2652b6567b8ec2cfb4",
+      "content": {
+        "primary_entity": "小飞机(FlyShadow)",
+        "keyword1": "小飞机(FlyShadow)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，小飞机(FlyShadow)面向需要稳定海外网络连接的中文用户，提供基础版、旗舰版、团队版三档订阅。基础版每月 15 元含 100GB 流量与 3 台设备，旗舰版每月 35 元主打 300GB 流量、5 台设备与 IPLC 专线游戏加速，团队版每月 85 元可支持 20 台设备与 1000GB 流量。年付方案分别约 150 元、350 元、850 元，可按设备数量与月流量需求选择。",
+          "AI_HERO_SUBTITLE": "按设备与流量选订阅",
+          "AI_HERO_INTRO": "小飞机(FlyShadow)为手机、电脑与路由器提供海外加速订阅，涵盖基础版、旗舰版和团队版三档配置。用户可依据同时在线设备数量、每月所需流量以及流媒体或游戏场景，选择合适的套餐周期。",
+          "AI_VISUAL_TITLE": "小飞机订阅套餐",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同设备数",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付价格更省月均成本",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个角度比较小飞机(FlyShadow)的订阅选项。",
+          "AI_FEATURE_TITLE_1": "按设备选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可支持 20 台，按常用终端数量确定档位。",
+          "AI_FEATURE_TITLE_2": "按流量评估",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，流量需求高可优先考虑后两档。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供月付与年付选项，年付分别约 150 元、350 元、850 元，适合长期使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选用对应订阅客户端，导入订阅链接后按客户端文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与专线加速，团队版面向多设备和高流量场景。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "先确认设备与套餐匹配，再依据客户端文档导入订阅并连接节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间选定适合的订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认终端系统与所选客户端匹配，并检查套餐支持的设备数量是否覆盖日常使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅信息，依照客户端文档完成节点选择与连接设置。",
+          "AI_CLOSING_TITLE": "选择合适的小飞机订阅",
+          "AI_CLOSING_TEXT": "结合设备数量和每月流量，挑选匹配的套餐并完成客户端订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小飞机(FlyShadow)支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持Windows、macOS、iOS与Android客户端，具体版本以客户端下载页说明为准。",
+          "AI_FAQ_QUESTION_2": "套餐之间的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "主要区别在月流量、同时在线设备数和线路类型，基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算吗？",
+          "AI_FAQ_ANSWER_3": "年付相当于十个月价格，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用更经济。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅地址？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址后保存并更新节点列表。",
+          "AI_FAQ_QUESTION_5": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_5": "支持在账户内升级或调整套餐，具体规则请查看套餐变更说明。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "echonetworkjc.com",
+    "host": "echonetworkjc.com"
+  },
+  "file_hashes": {
+    "index.html": "6e6ced30f3ddf4df5ff3cf37b374991e26f81a459d9f01a7a56a362249f0ac90",
+    "sitemap.xml": "9ec282b033c8e5971dcbf77a77dcc51f865a888e2f24b7638453689f62b2ee9f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "790bedf1458d83fe6c03de20e9d99790bbd1298abbd95764ae7d569b330b0538",
+    "robots.txt": "956556fc7b40d2294d110f9ece5995e5be19e93b1f87d186f1685203e03b5a10",
+    "696bdf3ecfc355db5797e1cfb2432ce4.txt": "0e8e4fcfde60815cb46be2fc8d08d915c2bbd04ed2729c85fc98ae0198e7a4cc"
+  },
+  "revision": "268b7eba1b53dfd6e73a511d7481f1c3032f3d2aad50171ac1befa268934b19e"
+}
